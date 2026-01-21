@@ -89,7 +89,7 @@ const swathi = {
 ---
 ## ⚔️ GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SwathiSopna-GitHub&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Swathi-GitHub&theme=dark&hide_border=true)
 
 ---
 
