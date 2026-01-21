@@ -27,8 +27,9 @@ const swathi = {
 
 // Turning ideas into reliable software ✨
 
----
+```
 
+---
 ## 🧠 About Me
 
 🌱 Passionate about building meaningful applications
@@ -83,23 +84,23 @@ const swathi = {
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=John-Ravi934&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SwathiSopna&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 ## ⚔️ GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=John-Ravi934&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=SwathiSopna&theme=tokyonight&hide_border=true)
 ---
 
 ## 📈 Language Mix
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ravi934&layout=donut&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiSopna&layout=donut&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🟩 Activity Graph
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=12)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=SwathiSopna&theme=merko&radius=12)
 
 
 🟡 *Pac-Man is munching through those commits!*
