@@ -17,39 +17,31 @@
 ## 👨‍💻 Developer Snapshot
 
 ```js
-const ravi = {
-  code: ['JavaScript', 'React'],
-  tools: ['Tailwind', 'Figma', 'Git'],
-  architecture: 'Scalable & Modern',
-  coffee_level: 'Infinity ☕'
+const swathi = {
+  code: ['Java', 'Dart', 'JavaScript'],
+  frameworks: ['Flutter', 'Spring Boot'],
+  tools: ['Git', 'Postman', 'Docker'],
+  mindset: 'Clean Code & Real-world Impact',
+  caffeine: '☕ + ☕'
 };
 
-// Building digital experiences with code_
-```
+// Turning ideas into reliable software ✨
 
 ---
 
 ## 🧠 About Me
 
-1. 🚀 Currently crafting **high-performance interfaces**
-2. 🎨 Passionate about **Glassmorphism & Micro-interactions**
-3. 🤝 Open to collaboration on **Open Source React projects**
-4. 🧠 Exploring the intersection of **AI & Frontend**
+🌱 Passionate about building meaningful applications
+
+📱 Focused on Flutter mobile development
+
+⚙️ Interested in Backend systems & APIs
+
+🤝 Open to learning, collaboration & growth
 
 ---
 
 ## 🧩 Languages & Tools
-
-### 🎨 Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![Boostrap](https://skillicons.dev/icons?i=bootstrap)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Next](https://skillicons.dev/icons?i=next)
-![Wordpress](https://skillicons.dev/icons?i=wordpress)
-
 
 
 ### ⚙️ Backend
