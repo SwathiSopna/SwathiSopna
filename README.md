@@ -47,8 +47,8 @@ const swathi = {
 
 ### ⚙️ Backend
 ![Java](https://skillicons.dev/icons?i=java)
-![Express](https://skillicons.dev/icons?i=express)
-![Docker](https://skillicons.dev/icons?i=docker)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Spring Batch](https://skillicons.dev/icons?i=springbatch)
 
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
