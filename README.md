@@ -59,12 +59,9 @@ const swathi = {
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 
 
-### 🧪 Test & Package
-![Jest](https://skillicons.dev/icons?i=jest)
-![Redux](https://skillicons.dev/icons?i=redux)
-![Webpack](https://skillicons.dev/icons?i=webpack)
-![Babel](https://skillicons.dev/icons?i=babel)
-![Npm](https://skillicons.dev/icons?i=npm)
+### 🧪 API Testing & Automation
+![Postman](https://skillicons.dev/icons?i=postman)
+![Karate](https://skillicons.dev/icons?i=karate)
 
 
 ### 🎯 Design & Deployment 
