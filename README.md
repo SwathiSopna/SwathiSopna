@@ -45,7 +45,7 @@ const swathi = {
 ## 🧩 Languages & Tools
 
 
-### ⚙️ Backend / Server-Side
+### ⚙️ Backend/Server-Side
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Spring Batch](https://skillicons.dev/icons?i=spring_batch)
@@ -71,12 +71,11 @@ const swathi = {
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 
-### ⚒️ Tools
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Webstorm](https://skillicons.dev/icons?i=webstorm)
+### ⚒️ CI/CD & DevOps
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Maven](https://skillicons.dev/icons?i=maven)
 ![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Vite](https://skillicons.dev/icons?i=vite)
+![BitBucket](https://skillicons.dev/icons?i=bitbucket)
 
 
 ---
@@ -101,8 +100,6 @@ const swathi = {
 ## 🟩 Activity Graph
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=SwathiSopna&theme=merko&radius=12)
-
-
 🟡 *Pac-Man is munching through those commits!*
 
 ![Pacman](https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg)
