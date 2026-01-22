@@ -77,7 +77,7 @@ const swathi = {
 ![Git](https://skillicons.dev/icons?i=git)
 ![BitBucket](https://skillicons.dev/icons?i=bitbucket)
 
-### ⚒️ IDEs & Monitoring
+### 💻 IDEs & Monitoring
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
