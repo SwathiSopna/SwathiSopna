@@ -46,7 +46,7 @@ const swathi = {
 
 
 ### ⚙️ Backend
-![Node](https://skillicons.dev/icons?i=nodejs)
+![Java](https://skillicons.dev/icons?i=java)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
