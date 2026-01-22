@@ -54,9 +54,9 @@ const swathi = {
 
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Mongodb](https://skillicons.dev/icons?i=mongodb)
+![Cassandra](https://skillicons.dev/icons?i=cassandra)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 
 
 ### 🧪 API Testing & Automation
